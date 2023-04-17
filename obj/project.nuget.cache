@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0to+mTFudLfPbuGy2wEZXgYjDiW27s+5oN61234uumzLJcQNRQ/RPDaV0iq1fike9m52TnwtXnIYZ9CsuAJT1w==",
+  "dgSpecHash": "1E31OCyfgZMBjetMkigHhtp7gfRSptlCe8H4Lhtm4iNo8x8nJ5BNCEyBl0t+VesOzoRlB4TZSzndzIk48rYN0A==",
   "success": true,
-  "projectFilePath": "C:\\TP 1 API de Pizzas\\Pizzas.API\\Pizzas.API.csproj",
+  "projectFilePath": "Z:\\5IC\\DAI\\TP 1 API de Pizzas - copia\\Pizzas.API\\Pizzas.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\46961979\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\46961979\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

@@ -27,3 +27,39 @@ C:\TP 1 API de Pizzas\Pizzas.API\obj\Debug\net6.0\refint\Pizzas.API.dll
 C:\TP 1 API de Pizzas\Pizzas.API\obj\Debug\net6.0\Pizzas.API.pdb
 C:\TP 1 API de Pizzas\Pizzas.API\obj\Debug\net6.0\Pizzas.API.genruntimeconfig.cache
 C:\TP 1 API de Pizzas\Pizzas.API\obj\Debug\net6.0\ref\Pizzas.API.dll
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\bin\Debug\net6.0\appsettings.Development.json
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\bin\Debug\net6.0\appsettings.json
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\bin\Debug\net6.0\package-lock.json
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\bin\Debug\net6.0\package.json
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\bin\Debug\net6.0\Pizzas.API.exe
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\bin\Debug\net6.0\Pizzas.API.deps.json
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\bin\Debug\net6.0\Pizzas.API.runtimeconfig.json
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\bin\Debug\net6.0\Pizzas.API.dll
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\bin\Debug\net6.0\Pizzas.API.pdb
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\bin\Debug\net6.0\Dapper.dll
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\Pizzas.API.csproj.AssemblyReference.cache
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\Pizzas.API.GeneratedMSBuildEditorConfig.editorconfig
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\Pizzas.API.AssemblyInfoInputs.cache
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\Pizzas.API.AssemblyInfo.cs
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\Pizzas.API.csproj.CoreCompileInputs.cache
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\Pizzas.API.MvcApplicationPartsAssemblyInfo.cache
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\staticwebassets\msbuild.Pizzas.API.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Pizzas.API.props
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pizzas.API.props
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pizzas.API.props
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\staticwebassets.pack.json
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\staticwebassets.build.json
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\staticwebassets.development.json
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\scopedcss\bundle\Pizzas.API.styles.css
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\Pizzas.API.csproj.CopyComplete
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\Pizzas.API.dll
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\refint\Pizzas.API.dll
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\Pizzas.API.pdb
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\Pizzas.API.genruntimeconfig.cache
+Z:\5IC\DAI\TP 1 API de Pizzas - copia\Pizzas.API\obj\Debug\net6.0\ref\Pizzas.API.dll
